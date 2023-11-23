@@ -1,0 +1,87 @@
+
+---Downloaded files---
+The import files for: Default Zon were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/news
+Data file = E:\Wamp\www\News\wp-content\plugins\theme-freesia-demo-import\files/dummy/zon/default/zon.wordpress.xml
+Widget file = E:\Wamp\www\News\wp-content\plugins\theme-freesia-demo-import\files/dummy/zon/default/zon-widgets.wie
+Customizer file = E:\Wamp\www\News\wp-content\plugins\theme-freesia-demo-import\files/dummy/zon/default/zon-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Contact Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Top Header Info : 
+
+Block - No Title - Imported
+
+Header Banner : 
+
+Block - No Title - Imported
+
+Side Menu : 
+
+Block - No Title - Imported
+TF: Category Box Widget - Latest Posts - Imported
+
+Zon Template Section : 
+
+Block - No Title - Imported
+TF: Category Box Two Layout Widget - Technology - Imported
+Block - No Title - Imported
+TF: Category Box Widget - Stories - Imported
+TF: Category Box Widget - Sports News - Imported
+
+Zon Template Sidebar Section : 
+
+TF: Category Box Two Layout Widget - World - Imported
+Block - No Title - Imported
+TF: Popular Posts, Tags and Comments - No Title - Imported
+Block - No Title - Imported
+
+Iframe Code For Google Maps : 
+
+Block - No Title - Imported
+
+Footer Column 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Column 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Column 3 : 
+
+Block - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Footer Column 4 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

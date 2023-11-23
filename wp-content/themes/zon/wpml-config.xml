@@ -1,0 +1,15 @@
+<wpml-config>
+	<admin-texts>
+		<key name="zon_theme_options">
+			<key name="zon_search_text" />
+			<key name="zon_update_text" />
+			<key name="zon_update_link" />
+			<key name="zon_tag_text" />
+			<key name="zon_img-upload-footer-image" />
+			<key name="zon_secondary_logo" />
+			<key name="zon_secondary_logo_link" />
+			<key name="zon_breaking_news_title" />
+			<key name="zon_feature_news_title" />
+		</key>
+	</admin-texts>
+</wpml-config>

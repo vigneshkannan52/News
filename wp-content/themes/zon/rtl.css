@@ -1,0 +1,73 @@
+/*
+Theme Name: Zon
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Normalize
+ * 2.0 - Typography
+ * 3.0 - FontAwesome
+ * 4.0 - Elements
+ * 5.0 - Padding/Margin
+ * 6.0 - Forms
+ * 7.0 - Navigation
+ *    7.1 - Main Menu
+ * 8.0 - Widgets
+ * 9.0 - Content
+ *	  9.1 - Posts and pages
+ *	  9.2 - Comments
+ * 10.0 - Modules
+ *	  10.1 - Audio Player
+ 	  10.2 - Hero Content
+ * 11.0 - WooCommerce
+ * 12.0 - Media Queries
+
+ /**
+ * 1.0 - Normalize
+ */
+
+ body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+	margin-right: auto;
+	margin-left: 0.4375em;
+}
+
+
+/**
+ * 2.0 - Typography
+ */
+
+
+
+/**
+ * 3.0 - FontAwesome
+ */
+
+
+
+/**
+ * 4.0 - Elements
+ */
+
+
+ol {
+	margin-right: 1.5em;
+	margin-left: 0;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
